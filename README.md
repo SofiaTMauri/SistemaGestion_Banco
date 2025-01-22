@@ -7,7 +7,7 @@ Proyecto académico desarrollado en **Java** con **MySQL**.
 
 ## Tecnologías  
 - Java, JDC, HTML, CSS
-- MySSQL
+- MySQL
 
 ## Cómo ejecutar  
 1. Clona este repositorio: `git clone https://github.com/SofiaTMauri/SistemaGestion_Banco.git`  
